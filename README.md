@@ -8,6 +8,9 @@ Results
 After cleaning and process of data we get 532 tradeable cryptocurrencies. 
 
 Then we used K-Means to determine the clusters of the cryptocurrencies. We ran elbow curve using K-Means method to determine the K value. We found K value as 4.
+
+![image](https://user-images.githubusercontent.com/49285767/201456920-586fa6d7-ea88-4b93-b61e-d50d103d578c.png)
+
  
 Visualizing Cryptocurrencies Results
 
